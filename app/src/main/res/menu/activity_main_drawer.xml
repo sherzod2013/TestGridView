@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_find"
+            android:icon="@drawable/search"
+            android:title="Поиск объявлений" />
+        <item
+            android:id="@+id/nav_like"
+            android:icon="@drawable/star"
+            android:title="Избранное" />
+
+        <item
+            android:id="@+id/nav_my_products"
+            android:icon="@drawable/advertising"
+            android:title="Мои объявления" />
+        <item
+            android:id="@+id/nav_my_products"
+            android:icon="@drawable/settings"
+            android:title="Настройки" />
+    </group>
+
+    <group>
+        <menu>
+            <item
+                android:id="@+id/nav_add_new"
+                android:icon="@drawable/add_new"
+                android:title="Подать объявление"
+                />
+        </menu>
+    </group>
+
+</menu>
