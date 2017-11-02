@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TestGridView.iml" filepath="$PROJECT_DIR$/TestGridView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyWeb.iml" filepath="$PROJECT_DIR$/MyWeb.iml" />
+      <module fileurl="file://E:\AndroidProgramms\TestGridView\MyWeb\TestGridView.iml" filepath="E:\AndroidProgramms\TestGridView\MyWeb\TestGridView.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
